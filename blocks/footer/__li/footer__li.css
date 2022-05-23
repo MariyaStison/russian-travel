@@ -1,0 +1,9 @@
+.footer__li {
+  
+}
+
+@media screen and (max-width: 760px) {
+  .footer__li {
+    padding-bottom: 32px;
+  }
+}

@@ -1,0 +1,9 @@
+.header__logo {
+    line-height: 0;
+  }
+  
+  @media screen and (max-width: 760px) {
+    .header__logo {
+      max-width: 142px;
+    }
+  }

@@ -1,0 +1,36 @@
+.place__paragraph {
+    margin: 0;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.63;
+  }
+  
+  @media screen and (max-width: 1010px) {
+    .place__paragraph {
+      font-size: 16px;
+      line-height: 1.63;
+    }
+  }
+  
+  @media screen and (max-width: 760px) {
+    .place__paragraph {
+      padding-right: 1%;
+    }
+  }
+  
+  .place__paragraph:nth-child(2) {
+    padding-top: 26px;
+  }
+  
+  @media screen and (max-width: 1240px) {
+    .place__paragraph:nth-child(2) {
+      padding-top: 27px;
+    }
+  }
+  
+  @media screen and (max-width: 1010px) {
+    .place__paragraph:nth-child(2) {
+      padding-top: 25px;
+    }
+  }  
