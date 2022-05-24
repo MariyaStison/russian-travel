@@ -27,10 +27,11 @@
   @import url(../blocks/intro/__title/intro__title.css);
   @import url(../blocks/intro/__text/intro__text.css);
   @import url(../blocks/intro/__list/intro__list.css);
-  @import url(../blocks/intro/_font-style/intro_font-style_regular.css);
+  @import url(../blocks/intro/__list-li/intro__list-li.css);
+    @import url(../blocks/intro/__list-li/_font-style/intro__list-li_font-style_bold.css);
 
 /*photo-grid*/
-@import url(../blocks/photo-grid/photo-grid.css);
+  @import url(../blocks/photo-grid/photo-grid.css);
   @import url(../blocks/photo-grid/__item-img/photo-grid__item-img.css);
 
 /*places*/
