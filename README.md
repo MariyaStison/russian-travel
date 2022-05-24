@@ -13,8 +13,7 @@
 
 #### Ссылка на сайт
 
-Сайт размещен на GitHub Pages:
-* [Путешествие по России](https://mariyastison.github.io/russian-travel/)
+Сайт размещен на GitHub Pages: [Путешествие по России](https://mariyastison.github.io/russian-travel/)
 
 #### Технологии
 
